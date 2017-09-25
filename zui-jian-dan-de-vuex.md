@@ -6,13 +6,13 @@
 
 4，getter：store中的计算属性，可接收两个参数（本模块state和整个应用的getters）。
 
-
-
 最简单的store;
 
 const store = new Vuex.Store\({
 
-      state:{}
+```
+  state:{}
+```
 
 }
 
