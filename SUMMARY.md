@@ -1,3 +1,7 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [vuex简介](chapter1.md)
+* [安装](an-zhuang.md)
+* [最简单的vuex](zui-jian-dan-de-vuex.md)
+
