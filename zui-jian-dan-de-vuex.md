@@ -16,5 +16,3 @@ const store = new Vuex.Store\({
 
 }
 
-\#test
-
